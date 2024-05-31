@@ -56,8 +56,8 @@ The Passport Management System is a sophisticated Python application meticulousl
 - ...
 
 ## 👩‍💻 Contributors
-- Faryal Nimra
-- Izza Shahzad
+
+Contributions to this project are welcome! Feel free to submit bug fixes, feature enhancements, or feedback through GitHub pull requests or issues. 🛠️
 
 ## 📄 License
 This project is licensed under the MIT License, ensuring flexibility and openness for collaboration and development.
